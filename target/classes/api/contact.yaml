@@ -1,0 +1,10 @@
+# contact_api
+name: contact
+actions:
+  #ApiObjectMethodModel
+  login:
+    formalParam: ["account","password","session_id","verify_code"]
+    headers:
+      Content-Type: application/json;charset=UTF-8
+    body: '{"account": "${account}","password": "${password}","session_id":"${session_id}","verify_code":"${verify_code}"}'
+    post: https://cmsapi-test.ienjoys.com/v1/publicModule/login

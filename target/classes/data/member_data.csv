@@ -1,0 +1,5 @@
+user_id,user_name,mobile,error_code,error_msg
+a,1,13010000000,0,created
+Asdasd312312_-@sdsdhaksjdhajksdhkasjSDka312@@@....__---231zxjd4,Asdasd3使劲擦12_-@sdsdhaksjdhaj计算机视觉asjhdka312@@@....__---231zxjd4,13020000000,0,created
+Asdasd312312_-@sdsdhaksjdhajksdhkasjhdka312@@@....__---231zxjd422,name,13030000000,40058,exceed max length 64
+Asdasd312312,Asdasd3使劲asd12_-@sdsdhaksjdhaj计算机视觉asjhdka312@@@....__---231zxjd4123123,130400000001,40058,exceed max utf8 words 64

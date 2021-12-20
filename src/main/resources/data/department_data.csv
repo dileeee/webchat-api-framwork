@@ -1,0 +1,7 @@
+department_name,department_en_name,return_code,error_msg
+abcdefghijcd122313122,en_name1,0,created
+abcdefghijabcdefghijabcdefghij12313136,en_name,60001,department invalid length
+\:?”<>｜,en_name,60009,department name include invalid char
+me22214234031,abc231efg3hcdefgjabcfgh,0,created
+name,abcdefghijabcdefghijabcdefghij123,40058,name_en exceed max length 32
+name,\:?”<>｜,60009,department name include invalid char
